@@ -1,0 +1,14 @@
+{
+  "name": "Test",
+  "version": "0.0.1",
+  "scripts":{
+    "start" :"node root.js"
+  },
+  "dependencies": {
+    "formidable": "^1.1.1",
+    "koa": "2.0.0",
+    "koa-ejs": "^4.0.0",
+    "koa-router": "^7.1.1"
+
+  }
+}
